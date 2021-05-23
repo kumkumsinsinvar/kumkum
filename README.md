@@ -1,0 +1,2 @@
+# kumkum
+my static website
